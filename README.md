@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @athisiiiii
-- 👀 I’m interested in wed development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Alliens
 - 📫 How to reach me 911
